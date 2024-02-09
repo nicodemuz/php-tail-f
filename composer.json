@@ -1,0 +1,17 @@
+{
+    "name": "nicodemuz/php-tail-f",
+    "description": "Provides tail -f functionailty to watch changes in files",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nicodemuz\\PhpTailF\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nico Hiort af Ornäs"
+        }
+    ],
+    "require": {}
+}
