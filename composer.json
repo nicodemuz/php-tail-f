@@ -1,6 +1,6 @@
 {
     "name": "nicodemuz/php-tail-f",
-    "description": "Provides tail -f functionailty to watch changes in files",
+    "description": "A simple implementation to provide tail -f functionality in PHP code. Allows you to monitor newly added lines to a given file.",
     "type": "library",
     "license": "MIT",
     "autoload": {
